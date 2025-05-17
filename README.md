@@ -6,7 +6,7 @@ Here's the promotional README article for your second **Forsaken** script varian
 
 Take full control in *Forsaken* with this powerful, **keyless script** designed for auto-play, farming, and full ESP domination. Whether you're a solo survivor or squad player, this tool gives you the edge with streamlined automation and threat awareness—all 100% free and plug-and-play.
 
-![script-image](image-link-placeholder)
+![script-image](https://github.com/zaid7086/Forsaken-Script/blob/main/Forsaken%20-%20AutoPlay%20ESP%20Edition)
 
 ---
 
